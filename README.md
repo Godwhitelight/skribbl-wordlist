@@ -1,0 +1,35 @@
+# skribbl-wordlist
+a skribbl wordlist for the solver webextetion (soon)
+
+## TODO:
+ - Support all languages. Proccess [2/28]
+
+### Languages
+ - English [✅]
+ - German [❌]
+ - Bulgarian [❌]
+ - Czech [❌]
+ - Danish [❌]
+ - Dutch [❌]
+ - Finnish [❌]
+ - French [❌]
+ - Estonian [❌]
+ - Greek [❌]
+ - Hebrew [✅]
+ - Hungarian [❌]
+ - Italian [❌]
+ - Japanese [❌]
+ - Korean [❌]
+ - Latvian [❌]
+ - Macedonian [❌]
+ - Norwegian [❌]
+ - Portuguese [❌]
+ - Polish [❌]
+ - Romanian [❌]
+ - Russian [❌]
+ - Serbian [❌]
+ - Slovakian [❌]
+ - Spanish [❌]
+ - Swedish [❌]
+ - Tagalog [❌]
+ - Turkish [❌]
