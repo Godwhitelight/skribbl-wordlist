@@ -4,7 +4,7 @@ a skribbl wordlist for the solver webextetion (soon)
 
 ## TODO:
 
-- Support all languages. Process [2/28]
+- Support all languages. Process [3/28]
 
 ### Support me!
 
