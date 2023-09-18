@@ -4,7 +4,7 @@ a skribbl wordlist for the solver webextetion (soon)
 
 ## TODO:
 
-- Support all languages. Process [3/28]
+- Support all languages. Process [6/28]
 
 ### Support me!
 
@@ -16,9 +16,9 @@ a skribbl wordlist for the solver webextetion (soon)
 
 - English [✅]
 - German [✅]
-- Bulgarian [❌]
-- Czech [❌]
-- Danish [❌]
+- Bulgarian [✅]
+- Czech [✅]
+- Danish [✅]
 - Dutch [❌]
 - Finnish [❌]
 - French [❌]
