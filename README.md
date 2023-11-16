@@ -1,6 +1,8 @@
 # Skribbl Wordlist
 
 > a skribbl wordlist for the solver webextetion (soon)
+## What is Skribbl
+Skribbl.io is a free online multiplayer drawing and guessing web game developed and published by ticedev. It was released on Crazy Games on February 2017, but it is also available independently.
 
 ## TODO:
 
